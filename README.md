@@ -1,2 +1,7 @@
 # Design-Patterns-in-Python
-An archive for Software Design Patterns using Python programming language
+
+Template for Software Design Patterns using Python programming language
+
+Topics covered
+
+
